@@ -1,5 +1,5 @@
 # 👋 Sobre mim  
-Olá! Me chamo *Isabela, sou estudante de **Engenharia de Software*.  
+Olá! Me chamo *Isabela*, sou estudante de **Engenharia de Software**.  
 Sou apaixonada por programação e atualmente foco em:
 
 - 🖥️ Python e Pygame  
