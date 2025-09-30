@@ -29,8 +29,8 @@ Sou apaixonada por programação e atualmente foco em:
 
 ---
 ### 📫 Contato
-- 📧 E-mail: [seuemail@gmail.com](mailto:isabelasfranco@hotmail.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-nome](https://www.linkedin.com/in/isabela-franco-622457375)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelasfranco@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-franco-622457375)
 
 
 ---
