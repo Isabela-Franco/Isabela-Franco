@@ -25,14 +25,12 @@ Sou apaixonada por programação e atualmente foco em:
 ---
 
 ### 📊 Estatísticas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-Franco&layout=compact&theme=radical)
 
 ---
-
 ### 📫 Contato
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelasfranco@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-franco-622457375)
-
+- 📧 E-mail: [seuemail@gmail.com](mailto:isabelasfranco@hotmail.com)
+- 💼 LinkedIn: [linkedin.com/in/seu-nome](https://www.linkedin.com/in/isabela-franco-622457375)
 
 
 ---
