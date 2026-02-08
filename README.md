@@ -1,6 +1,6 @@
 # 👋 Sobre mim  
 Olá! Me chamo *Isabela*, sou estudante de **Engenharia de Software**.  
-Sou apaixonada por programação e atualmente foco em:
+Atualmente foco em:
 
 - 🖥️ Python e Pygame  
 - 🌐 HTML, CSS e JavaScript  
