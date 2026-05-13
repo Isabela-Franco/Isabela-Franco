@@ -2,36 +2,80 @@
   <img src="banner.png.jpeg">
 </div>
 
-# 👋 Sobre mim  
-Olá! Me chamo *Isabela*, sou estudante de **Engenharia de Software**.  
-Atualmente foco em:
+# 👋 Olá, eu sou a Isabela
 
-- 🖥️ Python e Pygame  
-- 🌐 HTML, CSS e JavaScript  
-- 🎯 Aprendendo novas tecnologias todos os dias
+### 💜 Estudante de Engenharia de Software
 
-## 🔧 Tecnologias que uso  
+<p>
+Apaixonada por tecnologia, programação e aprendizado constante.
+Atualmente estudando desenvolvimento de software e criando projetos para evoluir minhas habilidades.
+</p>
 
-### 📌 Linguagens  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-
-### 🗄️ Banco de Dados  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=fff)
-
-### 🛠️ Ferramentas e Versionamento  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) 
+</div>
 
 ---
 
-### 📫 Contato
+## 🌙 Sobre mim
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelasfranco@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-franco-622457375)
+- 🐍 Estudando Python e Pygame
+- 🌐 Aprendendo HTML, CSS e JavaScript
+- 🎮 Interesse em jogos e tecnologia
+- 📚 Sempre aprendendo novas tecnologias
 
 ---
-⭐ Sempre em busca de aprender e evoluir 🚀
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠️ Projetos
+
+### 🎮 Jogo da Velha
+Projeto simples desenvolvido para praticar lógica de programação e Python.
+
+---
+
+## 🌐 Redes
+
+<div align="center">
+
+<a href="SEU_LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="SEU_LINK_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Obrigada por visitar meu perfil ✨
+
+</div>
