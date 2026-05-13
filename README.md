@@ -28,10 +28,6 @@ Atualmente foco em:
 
 ---
 
-### 📊 Estatísticas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-Franco&layout=compact&theme=radical)
-
----
 ### 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelasfranco@hotmail.com)
