@@ -7,7 +7,6 @@
 ### 💜 Estudante de Engenharia de Software
 
 <p>
-Apaixonada por tecnologia, programação e aprendizado constante.
 Atualmente estudando desenvolvimento de software e criando projetos para evoluir minhas habilidades.
 </p>
 
@@ -17,7 +16,7 @@ Atualmente estudando desenvolvimento de software e criando projetos para evoluir
 
 ## 🌙 Sobre mim
 
-- 🐍 Estudando Python e Pygame
+- 🐍 Estudando Python
 - 🌐 Aprendendo HTML, CSS e JavaScript
 - 🎮 Interesse em jogos e tecnologia
 - 📚 Sempre aprendendo novas tecnologias
@@ -62,11 +61,11 @@ Projeto simples desenvolvido para praticar lógica de programação e Python.
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/isabela-franco-622457375/">
 <img src="https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_LINK_GITHUB">
+<a href="https://github.com/Isabela-Franco">
 <img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
