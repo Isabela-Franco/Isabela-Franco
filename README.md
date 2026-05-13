@@ -42,18 +42,11 @@ Atualmente estudando desenvolvimento de software e criando projetos para evoluir
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabela-Franco&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-Franco&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 🛠️ Projetos
-
-### 🎮 Jogo da Velha
-Projeto simples desenvolvido para praticar lógica de programação e Python.
 
 ---
 
