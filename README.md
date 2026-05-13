@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner.png.jpeg">
+</div>
 # 👋 Sobre mim  
 Olá! Me chamo *Isabela*, sou estudante de **Engenharia de Software**.  
 Atualmente foco em:
