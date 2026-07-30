@@ -6,7 +6,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">💜 Atualmente estudando desenvolvimento de software e criando projetos para evoluir minhas habilidades.</h5>
+<h4 data-importer="text" align="left">💜 Atualmente estudando desenvolvimento de software e criando projetos para evoluir minhas habilidades.</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">🐍 Estudando Python<br>🌐 Aprendendo C#<br>🎮 Interesse em jogos<br>📚 Sempre aprendendo novas tecnologias</h5>
+<h4 data-importer="text" align="left">🐍 Estudando Python<br>🌐 Aprendendo C#<br>🎮 Interesse em jogos<br>📚 Sempre aprendendo novas tecnologias</h4>
 
 ###
 
